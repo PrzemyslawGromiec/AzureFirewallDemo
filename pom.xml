@@ -81,11 +81,11 @@
 		</dependency>
 
 		<!-- Azure Identity for Authentication -->
-		<dependency>
+		<!--<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-identity</artifactId>
 			<version>1.12.2</version>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>com.azure.spring</groupId>
 			<artifactId>azure-spring-boot-starter-keyvault-secrets</artifactId>
